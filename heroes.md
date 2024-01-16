@@ -6,6 +6,6 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Volcán Negro
+* Volcán verde!!
 * hulk
 * thor
