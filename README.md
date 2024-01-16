@@ -3,8 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizacion de las notas 
-**Hola En negrita**  y en _cursiva_
+## estos cambios son nuevos
